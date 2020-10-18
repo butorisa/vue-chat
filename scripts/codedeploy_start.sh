@@ -1,4 +1,5 @@
 #!/bin/bash
 
-cd ..
+DIR = `pwd`
+echo $DIR
 npm run serve
