@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-// feature/#4で修正して競合発生
+// feature/#5です
 Vue.config.productionTip = false
 
 new Vue({
