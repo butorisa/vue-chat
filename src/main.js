@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-// feature/#5です
+// feature/#8
 Vue.config.productionTip = false
 
 new Vue({
